@@ -6,9 +6,13 @@ h1 {
   text-align: center;
   color: #4ECCA3;
 }
-.card{
-  margin:0 auto 0 auto;
-  width: 70%;
+.card
+{
+  display: block;
+  width:20%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 3%;
 }
 
 body {
