@@ -6,6 +6,10 @@ h1 {
   text-align: center;
   color: #4ECCA3;
 }
+.card{
+  margin:0 auto 0 auto;
+}
+
 body {
   background-color: #393E46;
 }
